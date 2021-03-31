@@ -1,6 +1,6 @@
 
 # Import functions and objects the microservice needs.
-# - Flask is the top-level application. You implement the application by adding methods to it.
+# - Flask is the top-level application
 # - Response enables creating well-formed HTTP/REST responses.
 # - requests enables accessing the elements of an incoming HTTP/REST request.
 #
